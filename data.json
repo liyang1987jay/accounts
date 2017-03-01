@@ -1,0 +1,97 @@
+{
+  "user":{
+    "username":"liyang",
+    "password":"123456"
+  },
+  "menu":{
+
+  },
+  "userList":[
+    {
+    "id":"1",
+    "name":"liyang",
+    "sex":0,
+    "create_time":"2017-02-27 15:02:41",
+    "state":1
+  },
+    {
+      "id":"1",
+      "name":"liyang1",
+      "sex":0,
+      "create_time":"2017-02-27 15:02:41",
+      "state":1
+    },
+    {
+      "id":"2",
+      "name":"liyang2",
+      "sex":1,
+      "create_time":"2017-02-27 15:02:41",
+      "state":1
+    },
+    {
+      "id":"3",
+      "name":"liyang3",
+      "sex":0,
+      "create_time":"2017-02-27 15:02:41",
+      "state":1
+    },
+    {
+      "id":"4",
+      "name":"liyang4",
+      "sex":1,
+      "create_time":"2017-02-27 15:02:41",
+      "state":1
+    },
+    {
+      "id":"5",
+      "name":"liyang5",
+      "sex":0,
+      "create_time":"2017-02-27 15:02:41",
+      "state":1
+    },
+    {
+      "id":"6",
+      "name":"liyang6",
+      "sex":0,
+      "create_time":"2017-02-27 15:02:41",
+      "state":1
+    },
+    {
+      "id":"7",
+      "name":"liyang7",
+      "sex":0,
+      "create_time":"2017-02-27 15:02:41",
+      "state":1
+    },
+    {
+      "id":"8",
+      "name":"liyang8",
+      "sex":0,
+      "create_time":"2017-02-27 15:02:41",
+      "state":1
+    },
+    {
+      "id":"9",
+      "name":"liyang9",
+      "sex":0,
+      "create_time":"2017-02-27 15:02:41",
+      "state":1
+    },
+    {
+      "id":"10",
+      "name":"liyang10",
+      "sex":0,
+      "create_time":"2017-02-27 15:02:41",
+      "state":1
+    }
+
+
+
+
+
+
+
+
+
+  ]
+}
